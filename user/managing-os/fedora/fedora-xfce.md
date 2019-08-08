@@ -15,7 +15,7 @@ Installing
 
 To install a specific Fedora Xfce TemplateVM that is not currently installed in your system, use the following command in dom0:
 
-    $ sudo qubes-dom0-update --enablerepo=qubes-templates-itl-testing qubes-template-fedora-XX-xfce
+    [user@dom0 ~]$ sudo qubes-dom0-update --enablerepo=qubes-templates-itl-testing qubes-template-fedora-XX-xfce
 
    (Replace `XX` with the Fedora Xfce version number of the template you wish to install.)
 
